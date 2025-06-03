@@ -1,6 +1,6 @@
 # Resume Parser
 
-A powerful resume parsing application built with Streamlit and Hugging Face Transformers that extracts key information from resumes.
+A Good resume parsing application built with Streamlit and Hugging Face Transformers that extracts key information from resumes.
 
 ## Features
 
